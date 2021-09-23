@@ -41,5 +41,6 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![h3yon's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3yon&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+  [![h3yon's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3yon&show_icons=true&include_all_commits=true&theme=buefy)](https://github.com/h3yon/github-readme-stats)
+  
+  </div>
