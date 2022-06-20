@@ -40,5 +40,7 @@
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-![h3yon's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3yon&show_icons=true&theme=radical)
+  
+  [![h3yon's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3yon)](https://github.com/h3yon/github-readme-stats)
+  
   </div>
