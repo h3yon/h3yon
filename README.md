@@ -40,7 +40,5 @@
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-
-  [![h3yon's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3yon&show_icons=true&include_all_commits=true&theme=buefy)](https://github.com/h3yon/github-readme-stats)
-  
+  ![h3yon's GitHub stats](https://github-readme-stats.vercel.app/api?username=h3yon&show_icons=true&theme=dracula)
   </div>
