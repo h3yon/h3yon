@@ -20,6 +20,7 @@
 </p>
 
 <br>
+<h3 align="center">💡 이력 💡</h3>
 
 <h3 align="center">💡 Blog 💡</h3>
 
